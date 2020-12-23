@@ -11,7 +11,7 @@
 	"reload": 240,
 	"shots": 10,
 	"recoil": 2,
-	"ammoUseEffect": "shellEjectBig",
+	"ammoUseEffect": "shellEject",
 	"shootCone": 360,
 	"rotateSpeed": 50,
 	"range": 320,
