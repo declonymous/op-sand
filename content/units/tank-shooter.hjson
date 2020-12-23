@@ -1,4 +1,4 @@
-"type": "GroundUnit",
+"type": "legs",
 "name": "Shock Tanks",
 "description": "Powerful Slow Tank that shoots lightning.",
 speed: 0.75
