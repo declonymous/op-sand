@@ -1,6 +1,5 @@
 name: Sand Wall
 description: almost higher health than copper, doesnt passes electricity, and much cheaper.
-type: DeflectorWall
 health: 420
 size: 1
 hitTime: 10
