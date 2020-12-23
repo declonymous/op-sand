@@ -51,8 +51,7 @@
 	 	{ "item": "copper", "amount": 250 },
 		{ "item": "graphite", "amount": 200},
 		{ "item": "titanium", "amount": 200},
-		{ "item": "storable-sand", "amount": 100},
-		{ "item": "magic-dust", "amount": 50}
+		{ "item": "storable-sand", "amount": 100}
 	],
 	"category": "turret",
 	"research": "duo",
