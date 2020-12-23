@@ -1,5 +1,5 @@
 {
-	"type": "RepairDrone",
+	"type": "flying",
 	"name": "Sand Healer Drone",
 	"description": "drones that heal fast but has low health.",
    "health": "10",
