@@ -1,5 +1,5 @@
 {
-	"type": "BuilderDrone",
+	"type": "flying",
 	"name": "Sand Builder Drone",
 	"description": "Builder drones more powerful and faster than ordinary builder drones but has lower health.",
    "drag": 0.005,
