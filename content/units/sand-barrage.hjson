@@ -1,5 +1,5 @@
 {
-	"type": "groundUnit",
+	"type": "legs",
 	"name": "Sand Crawler",
 	"description": "More powerful than normal crawlers and faster but is health one hit.",
 	"maxVelocity": 4,
