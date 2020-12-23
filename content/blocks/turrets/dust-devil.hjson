@@ -12,7 +12,6 @@
 	"shots": 36,
 	"spread": 10,
 	"recoil": 0,
-	"ammoUseEffect": "shellEject",
 	"shootCone": 360,
 	"rotateSpeed": 50,
 	"range": 120,
