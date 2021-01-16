@@ -18,11 +18,9 @@ consumes: {
 requirements: [
   copper/100
   lead/100
-  graphite/100
-  storable-sand/30
 ]
 category: crafting
 research: sand-morpher-lead
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: graphite/3
+outputItem: graphite/5
