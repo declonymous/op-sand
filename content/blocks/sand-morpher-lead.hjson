@@ -6,7 +6,7 @@ size: 2
 hasPower: false
 hasLiquids: false
 hasItems: true
-craftTime: 20
+craftTime: 10
 updateEffect: plasticburn
 consumes: {
     items:{
@@ -17,11 +17,9 @@ consumes: {
 }
 requirements: [
   copper/100
-  lead/100
-  storable-sand/20
 ]
 category: crafting
 research: sand-morpher-copper
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: lead/4
+outputItem: lead/10
