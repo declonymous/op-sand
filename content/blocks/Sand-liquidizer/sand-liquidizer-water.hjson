@@ -6,7 +6,7 @@ size: 2
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 20
+craftTime: 2
 updateEffect: breakBlock
 consumes: {
   power: 0.5
@@ -20,7 +20,6 @@ requirements: [
   copper/100
   lead/100
   graphite/100
-  storable-sand/20
 ]
 category: crafting
 research: sand-checker
