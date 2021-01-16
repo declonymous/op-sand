@@ -19,13 +19,10 @@ consumes: {
 requirements: [
   copper/100
   lead/100
-  graphite/100
-  silicon/100
   titanium/100
-  storable-sand/20
 ]
 category: crafting
 research: sand-morpher-pyratite
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: blast-compound/1
+outputItem: blast-compound/3
