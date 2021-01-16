@@ -6,7 +6,7 @@ size: 3
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 80
+craftTime: 10
 updateEffect: plasticburn
 consumes: {
   power: 2
@@ -26,8 +26,6 @@ requirements: [
   titanium/100
   thorium/100
   plastanium/100
-  surge-alloy/100
-  storable-sand/90
 ]
 category: crafting
 research: sand-morpher-plastanium
