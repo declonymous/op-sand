@@ -6,7 +6,7 @@ size: 3
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 20
+craftTime: 2
 updateEffect: plasticburn
 consumes: {
   power: 1.5
@@ -26,11 +26,9 @@ requirements: [
   titanium/100
   thorium/100
   plastanium/100
-  phase-fabric/100
-  storable-sand/20
 ]
 category: crafting
 research: sand-morpher-thorium
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: phase-fabric/1
+outputItem: phase-fabric/2
