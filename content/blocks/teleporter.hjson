@@ -6,11 +6,8 @@
 	"size": 1,
 	"itemCapacity": 1,
 	"requirements": [
-	  hallowed-sand/50
-	  storable-sand/100
 	  magic-dust/75
-	  phase-fabric/25
 	],
-	"research": "sand-brewery",
+	"research": "duo",
 	"category": "effect"
 }
