@@ -16,11 +16,10 @@ consumes: {
 }
 }
 requirements: [
-  copper/100
-  storable-sand/20
+  copper/10
 ]
 category: crafting
 research: sand-checker
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: copper/4
+outputItem: copper/10
