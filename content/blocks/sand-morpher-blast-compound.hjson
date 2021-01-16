@@ -6,7 +6,7 @@ size: 2
 hasPower: true
 hasLiquids: false
 hasItems: true
-craftTime: 10
+craftTime: 2
 updateEffect: plasticburn
 consumes: {
   power: 0.9
