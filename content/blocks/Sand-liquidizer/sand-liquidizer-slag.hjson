@@ -6,7 +6,7 @@ size: 2
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 10
+craftTime: 2
 updateEffect: commandSend
 consumes: {
   power: 0.5
@@ -22,7 +22,6 @@ requirements: [
   graphite/100
   silicon/100
   titanium/100
-  storable-sand/20
 ]
 category: crafting
 research: sand-liquidizer-oil
