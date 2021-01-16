@@ -6,7 +6,7 @@ size: 2
 hasPower: false
 hasLiquids: false
 hasItems: true
-craftTime: 15
+craftTime: 2
 updateEffect: plasticburn
 consumes: {
   power: 0.8
@@ -20,11 +20,9 @@ requirements: [
   copper/100
   lead/100
   graphite/100
-  silicon/100
-  storable-sand/40
 ]
 category: crafting
 research: sand-morpher-graphite
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: silicon/2
+outputItem: silicon/5
