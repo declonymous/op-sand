@@ -6,7 +6,7 @@
 	"size": 1,
 	"itemCapacity": 1,
 	"requirements": [
-	  copper/1000
+	  copper/500
 	],
 	"research": "duo",
 	"category": "effect"
